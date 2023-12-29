@@ -1,7 +1,4 @@
 
-
-node_modules
-dist
-dist-ssr
-*.local
+# Ignore node_modules directory
+node_modules/
 
